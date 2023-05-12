@@ -1,6 +1,6 @@
 # telegram_freebot_share
 本项目用以分享telegram好用而免费的机器人。
-目前分享一些社工库信息库人肉档案免费查询的机器人。大家可以关注频道 
+目前分享一些telegram社工库telegram信息库telegram人肉档案免费查询的机器人。大家可以关注频道 
 https://t.me/freesgkbot_share
 这个是新成立的频道，
 
