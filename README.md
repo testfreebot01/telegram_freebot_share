@@ -9,6 +9,8 @@ https://t.me/freesgkbot_share
 
 目前(2023年5月可用）推荐社工库信息库人肉档案免费查询的机器人如下：
 
+https://t.me/freesgkbot_share (收集并分享免费查询的机器人 的频道)
+
 https://t.me/Freeshegongku_bot?start=1643477475kj0iko
 
 http://t.me/sgk2023_03_30bot?start=SGK_JX4795EF
